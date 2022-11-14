@@ -1,0 +1,12 @@
+.header__nav-item {
+    color: #fff;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    transition: font-size .5s;
+    text-decoration: none;
+}
+
+.header__nav-item:hover {
+    font-size: 16px;
+}

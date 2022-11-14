@@ -1,0 +1,6 @@
+.promo__pic {
+    height: 53px;
+    width: 34px;
+    margin: 120px auto 100px;
+    object-fit: cover;
+}

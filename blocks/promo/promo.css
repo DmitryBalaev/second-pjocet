@@ -1,0 +1,10 @@
+.promo {
+    background-image: url(../../images/promo-bg-image.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #fff;
+}

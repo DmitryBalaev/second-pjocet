@@ -1,0 +1,8 @@
+.header {
+    width: 100%;
+    background-color: #52503b;
+    transform: translateY(-10px);
+    position: fixed;
+    top: 0;
+    left: 0;
+}

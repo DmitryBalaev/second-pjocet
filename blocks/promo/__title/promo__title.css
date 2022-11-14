@@ -1,0 +1,9 @@
+.promo__title {
+    font-size: 48px;
+    line-height: 53px;
+    font-weight: 400;
+    margin: 0 auto;
+    max-width: 1175px;
+    width: 100%;
+    text-align: center;
+}
