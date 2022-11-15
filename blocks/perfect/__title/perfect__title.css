@@ -1,0 +1,10 @@
+.perfect__title {
+    font-weight: 700;
+    font-size: 96px;
+    line-height: 96px;
+    margin: 140px auto;
+    text-align: center;
+    color: #52503b;
+    max-width: 1288px;
+    width: 100%;
+}

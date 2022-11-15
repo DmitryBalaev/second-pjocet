@@ -1,0 +1,8 @@
+.description__columns {
+    display: flex;
+    justify-content: space-between;
+    max-width: 800px;
+    width: 100%;
+    margin: 140px auto 90px;
+    gap: 40px;
+}
