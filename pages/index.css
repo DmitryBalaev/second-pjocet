@@ -22,3 +22,14 @@
 @import url(../blocks/perfect/__title/perfect__title.css);
 @import url(../blocks/perfect/__img/perfect__img.css);
 @import url(../blocks/content/content.css);
+@import url(../blocks/section-title/section-title.css);
+@import url(../blocks/section-title/_place/section-title_place_left.css);
+@import url(../blocks/section-subtitle/section-subtitle.css);
+@import url(../blocks/section-subtitle/_place/section-subtitle_place_left.css);
+@import url(../blocks/sleep/sleep.css);
+@import url(../blocks/sleep/__cards/sleep__cards.css);
+@import url(../blocks/sleep/__card/sleep__card.css);
+@import url(../blocks/sleep/__icon/sleep__icon.css);
+@import url(../blocks/sleep/__title/sleep__title.css);
+@import url(../blocks/sleep/__text/sleep__text.css);
+@import url(../blocks/escape/__content/escape__content.css);

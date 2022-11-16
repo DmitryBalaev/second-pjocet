@@ -1,0 +1,10 @@
+.sleep__cards {
+    max-width: 1200px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    gap: 101px;
+    list-style: none;
+    padding: 0;
+    margin: 30px auto 0;
+}
