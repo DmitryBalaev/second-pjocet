@@ -1,0 +1,9 @@
+.escape__list-pic {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 36px;
+    width: 36px;
+    object-fit: contain;
+    object-position: center;
+}

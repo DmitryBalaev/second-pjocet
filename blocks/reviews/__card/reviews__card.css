@@ -1,0 +1,10 @@
+.reviews__card {
+    background: #fff;
+    min-width: 590px;
+    position: relative;
+    margin: 30px 10px 0 ;
+}
+
+.reviews__card:nth-of-type(1) {
+    margin: 30px 10px 0 136px;
+}

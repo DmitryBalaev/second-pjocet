@@ -1,0 +1,8 @@
+.escape__list {
+    list-style: none;
+    display: grid;
+    grid-template-columns: repeat(2, 550px);
+    gap: 45px;
+    margin: 30px auto 110px;
+    padding: 0;
+}

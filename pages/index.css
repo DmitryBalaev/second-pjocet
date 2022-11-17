@@ -33,3 +33,20 @@
 @import url(../blocks/sleep/__title/sleep__title.css);
 @import url(../blocks/sleep/__text/sleep__text.css);
 @import url(../blocks/escape/__content/escape__content.css);
+@import url(../blocks/escape/__list/escape__list.css);
+@import url(../blocks/escape/__list-item/escape__list-item.css);
+@import url(../blocks/escape/__list-pic/escape__list-pic.css);
+@import url(../blocks/escape/__list-title/escape__lis-title.css);
+@import url(../blocks/escape/__list-text/escape__list-text.css);
+@import url(../blocks/reviews/reviews.css);
+@import url(../blocks/reviews/__card-star/reviews__card-star.css);
+@import url(../blocks/reviews/__place/reviews__place.css);
+@import url(../blocks/reviews/__card/reviews__card.css);
+@import url(../blocks/reviews/__card-star/_rating/reviews__card-star_rating_rate.css);
+@import url(../blocks/reviews/__card-star/_rating/reviews__card-star_rating_star.css);
+@import url(../blocks/reviews/__card-title/reviews__card-title.css);
+@import url(../blocks/reviews/__card-text/reviews__card-text.css);
+@import url(../blocks/reviews/__card-user/reviews__card-user.css);
+
+
+

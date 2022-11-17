@@ -1,0 +1,7 @@
+.reviews__card-star_rating_star {
+    background-image: url(../../../../images/stars1.png);
+    background-repeat: repeat-x;
+    width: 18px;
+    height: 18px;
+    z-index: 6;
+}
